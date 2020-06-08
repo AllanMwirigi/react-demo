@@ -1,0 +1,13 @@
+
+.displayErrors .ui.input input:invalid {
+  border-color: red;
+}
+
+.hide{
+  display: none
+}
+
+.vertical-spacing{
+  margin-top: 5%; margin-bottom: 5%;
+}
+

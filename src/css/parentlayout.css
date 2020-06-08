@@ -1,0 +1,8 @@
+/* .body-cont{
+    display: flex;
+    flex-direction: column;
+} */
+
+a:hover, a:active, a:focus {
+    outline: none;
+  }

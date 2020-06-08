@@ -1,0 +1,25 @@
+
+.page-background{
+  background-color: #111133;
+  overflow: auto;
+  /* padding-top: 1px;
+    margin-top: -1px; */
+}
+
+.heading.segment.ui{
+  width: 60%;
+  font-size: 1.1em;
+  font-weight: 600;
+  margin-top: 3%;
+  margin-left: auto; margin-right: auto;  
+}
+
+.items-container.segment.ui{
+  width: 80%;
+  margin-top: 5%; margin-bottom: 5%;
+  margin-left: auto; margin-right: auto;
+}
+
+/* .item{
+  width: 
+} */
